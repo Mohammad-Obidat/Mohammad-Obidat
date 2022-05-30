@@ -1,5 +1,5 @@
 <!-- Intro -->
-<a href="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" target="_blank"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /></a>
+<img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! I'm Mohammad.</h1>
 <h3 align="center">About Me :</h3>  
  <p>
