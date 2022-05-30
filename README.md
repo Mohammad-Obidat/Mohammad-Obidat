@@ -1,5 +1,7 @@
 <!-- Intro -->
-<img align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div align="center">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="2000" height="400" />
+ </div>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! I'm Mohammad.</h1>
 <h3 align="center">About Me :</h3>  
  <p>
@@ -14,7 +16,7 @@
 
 <h3 align="center">Let's Connect! :</h3>  
 <div align="center">
-<a href="https://www.linkedin.com/in/mohammed-obidat-750a831a6/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
+<a href="https://www.linkedin.com/in/mohammed-obidat-750a831a6/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
 
 <a href="mailto:mo.s.obidat@gmail.com" target="blank">
 <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" style="height: 3rem"/>
