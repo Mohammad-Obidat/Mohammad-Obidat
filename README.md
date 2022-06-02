@@ -2,7 +2,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="2000" height="400" />
  </div>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! I'm Mohammad.</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif" width='100'> !! I'm Mohammad.</h1>
 <h3 align="center">About Me :</h3>  
  <p>
  🎓 B.A. Computer science.
